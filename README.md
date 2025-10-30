@@ -1,4 +1,4 @@
-# # 📰 Send News Email
+## 📰 Send News Email
 
 A simple Python automation script that fetches the latest news articles on a specific topic (like **Tesla**) using the [NewsAPI](https://newsapi.org/) and sends them straight to your email inbox.
 
